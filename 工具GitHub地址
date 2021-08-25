@@ -1,0 +1,116 @@
+termux: https://github.com/termux
+PowerOPS: https://github.com/fdiskyou/PowerOPS
+
+1、B-XSSRF
+用于检测和跟踪Blind XSS，XXE和SSRF的工具包
+
+https://github.com/SpiderMate/B-XSSRF
+
+2、BurpSuite-collections
+BurpSuite收集：包括不限于Burp文章，破解版，插件（非BApp Store），汉化等相关教程
+
+https://github.com/Mr-xn/BurpSuite-collections
+
+3、排查网盘信息泄露
+https://github.com/dongfangyuxiao/py-study/tree/master/py-study/%E5%A8%81%E8%83%81%E6%83%85%E6%8A%A5/%E7%BD%91%E7%9B%98%E6%B3%84%E9%9C%B2
+
+4、pocsuite3
+pocsuite3是由Knownsec 404团队开发的开源远程漏洞测试框架
+
+https://github.com/knownsec/pocsuite3
+
+进程隐藏工具libprocesshider.so
+
+此工具作用为劫持系统的readdir64和readdir函数，隐藏”proxy”进程。
+
+5、进程隐藏工具libprocesshider.so
+此工具作用为劫持系统的readdir64和readdir函数，隐藏”proxy”进程。
+
+6、流量代理工具proxy
+Proxy为Dog Tunnel(狗洞) go语言编写的流量代理工具
+
+https://github.com/vzex/dog-tunnel/
+
+7、冰蝎一句话木马
+作为新型加密网站管理客户端，冰蝎算是作为中国菜刀的替代者。此次发现的样本为冰蝎JSP一句话木马
+
+https://github.com/rebeyond/Behinder/releases
+
+8、JSP WEB后门live_index_bank3.jsp
+这是一个常规的JAVA WEB后门，通过调用.jsp?nox=”命令”来执行命令
+
+9、 Linux辅助提权工具LinEnum.sh
+10、 脏牛提权工具c0w64
+11、 内网流量代理工具agent.exe
+agent.exe是nps工具（https://github.com/cnlh/nps），
+
+是一款轻量级、高性能、功能强大的内网穿透代理服务器。目前支持tcp、udp流量转发，可支持任何tcp、udp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析等等……），此外还支持内网http代理、内网socks5代理、p2p等，并带有功能强大的web管理端。
+
+12、 dog-tunnel
+基于KCP的P2P端口映射工具，同时支持SOCKS5代理
+
+https://github.com/vzex/dog-tunnel/
+
+13、 sqlmap4burp ++
+sqlmap4burp ++是一款兼容于Windows，Mac，Linux的多个系统平台的打嗝与SqlMap的联动插件
+
+14 、移动安全框架 - MobSF
+https://github.com/MobSF/Mobile-Security-Framework-MobSF/wiki/1.-Documentation
+
+15 、简单的iOS应用黑盒评估工具
+https://github.com/chaitin/passionfruit
+
+16、 适用于开发人员，逆向工程人员和安全研究人员的动态仪表工具包
+https://www.frida.re/
+
+17 、最先进的XSS扫描
+https://github.com/s0md3v/XSStrike
+
+18、 XSS知识集合
+https://github.com/s0md3v/AwesomeXSS#awesome-xss-mind-maps
+
+19、 Lockdoor-Framework
+https://github.com/SofianeHamlaoui/Lockdoor-Framework
+
+20 、AttackSurfaceMapper(ASM)
+新型自动化渗透测试工具
+
+https://www.uedbox.com/post/59110/
+
+21、 apkinspector
+https://github.com/honeynet/apkinspector/
+
+22 、史上最全Windows安全工具锦集
+https://www.freebuf.com/sectool/215644.html
+
+23 、安卓APP脱壳的本质以及如何快速发现ART下的脱壳点
+https://www.52pojie.cn/thread-1026370-1-1.html
+
+24、 pydictor
+一个强大实用的黑客暴力破解字典建立工具
+
+https://github.com/LandGrey/pydictor
+
+25 、BBScan（目录扫描工具 ）
+https://github.com/lijiejie/BBScan
+
+26、 Perun（目录扫描工具 ）
+是一种主要适用于乙方安服，渗透测试人员和甲方RedTeam红队人员的网络资产入侵扫描器/扫描框架
+
+https://github.com/WyAtu/Perun
+
+27、CTF工具集合
+
+https://github.com/ctf-wiki/ctf-tools
+
+28、Struts2扫描
+
+https://github.com/HatBoy/Struts2-Scan
+
+29、越权检测工具
+
+https://github.com/ztosec/secscan-authcheck
+
+30、基于Frida的脱壳工具
+
+https://github.com/dstmath/frida-unpack
